@@ -127,7 +127,7 @@ While the IT department plays a crucial role in managing technological infrastru
 In summary, prioritizing engagement with plant shops, customers/consumers and botanical research is the primary decision-making context. Their collective power and interest make them key drivers in shaping the project's success and fostering widespread adoption and impact within the botanical community and beyond.
 
 ## DAPS Diagram
-![DAPS Diagram ](/images/DAPS_Diagram_236730.png)
+![DAPS Diagram ](/images/DAPS_Diagram.png)
 
 __1. The data-analytic problem__
 
