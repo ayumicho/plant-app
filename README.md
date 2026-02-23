@@ -38,9 +38,9 @@ The final product will be a web-based application that allows users to upload im
 
 Due to the scope of this project, the application will be developed as a prototype, with potential for future expansion based on user feedback and additional features such as rarity status and care recommendations.
 
-- Demo video: [BotaniScan Demo](../videos/Demo_BotaniScan_User.mp4)
-- Promotional video: [BotaniScan Promo](../videos/Promo_BotaniScan.mp4)
+- Demo video: [BotaniScan Demo](/videos/Demo_BotaniScan_User.mp4)
+- Promotional video: [BotaniScan Promo](/videos/Promo_BotaniScan.mp4)
 - Prototype: [BotaniScan Prototype](https://www.figma.com/proto/6r7Ftt9binh8iT0LPTUvJ1/Plant-Identifier-Wireframe--FINALIZED-?node-id=60-376&t=fvLw4FUWGP588V0W-1)
-- End presentation: [BotaniScan Presentation](../docs/BotaniScan_Presentation.pdf)
+- End presentation: [BotaniScan Presentation](/docs/BotaniScan_Presentation.pdf)
 
 ---
